@@ -12,4 +12,4 @@
 6. 正确解题
 7. 补充
 
-![a](../images/1.png)
+![a](https://raw.githubusercontent.com/todorex/Coding-Interviews/master/images/1.png)
