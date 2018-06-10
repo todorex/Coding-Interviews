@@ -11,8 +11,3 @@
 5. 自己解题
 6. 参考解题
 7. 补充
-<<<<<<< HEAD
-=======
-
-![a](https://raw.githubusercontent.com/todorex/Coding-Interviews/master/images/1.png)
->>>>>>> 17f4888ee5c8f27cec43e62cf207f1675195f5e0
