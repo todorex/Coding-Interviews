@@ -159,7 +159,7 @@ public class Singleton3 {
         if (singleton == null) {
             synchronized (Singleton3.class) {
                 if (singleton == null) {
-                    return new Singleton3();
+                    singleton = new Singleton3();
                 }
             }
         }
