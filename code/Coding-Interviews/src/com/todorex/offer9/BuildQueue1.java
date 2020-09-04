@@ -23,7 +23,7 @@ public class BuildQueue1 {
             }
         }
 
-        if (stack1.isEmpty()) {
+        if (stack2.isEmpty()) {
             throw new Exception("queue is empty");
 
         }
